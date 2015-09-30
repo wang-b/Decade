@@ -1,0 +1,29 @@
+/*
+ * 功能: 页面基础样式表
+ * @User wangb
+ * @Date 2015-07-11 20:24:00
+ * @Version 1.0.0
+ */
+body {
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+/** main-header部分 */
+.main-line {
+    width: 100%;
+    height: 3px;
+    margin: 0;
+    padding: 0;
+    background-color: #008855;
+}
+.main-header {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    background-color: #fafafa;
+}
+.main-header .logo {
+    color: #008855;
+}
+.main-header .logo h2 { font-weight: bold; }
